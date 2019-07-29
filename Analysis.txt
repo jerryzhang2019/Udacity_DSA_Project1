@@ -1,0 +1,6 @@
+Calculate Big O
+Task0: O(1) running once
+Task1: O(n) the zip running n times 
+Task2: O(n) the for loop will traversing the entire excel tables
+Task3: O(nlogn) worst case scenario it should be O(nlogn) because of the sorting function
+Task4: O(nlogn) worst case scenario it should be O(nlogn) because of the sorting function
